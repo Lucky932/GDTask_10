@@ -1,0 +1,15 @@
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\bin\Debug\net7.0\GDTask_10.exe
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\bin\Debug\net7.0\GDTask_10.deps.json
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\bin\Debug\net7.0\GDTask_10.runtimeconfig.json
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\bin\Debug\net7.0\GDTask_10.dll
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\bin\Debug\net7.0\GDTask_10.pdb
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.csproj.AssemblyReference.cache
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.AssemblyInfoInputs.cache
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.AssemblyInfo.cs
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.csproj.CoreCompileInputs.cache
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.dll
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\refint\GDTask_10.dll
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.pdb
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\GDTask_10.genruntimeconfig.cache
+C:\programs\github_rep\GDTask_10\GDTask_10\GDTask_10\obj\Debug\net7.0\ref\GDTask_10.dll
